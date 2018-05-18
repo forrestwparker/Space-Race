@@ -2,9 +2,6 @@
 //  GameViewController.swift
 //  Space Race
 //
-//  Created by Forrest Parker on 5/18/18.
-//  Copyright © 2018 Forrest Parker. All rights reserved.
-//
 
 import UIKit
 import SpriteKit
